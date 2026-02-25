@@ -1,0 +1,5 @@
+course_name = "Информатика"
+number_of_stage = "2.2"
+quantity_completed_tasks = "5+"
+
+print(f"Название круса: {course_name}\nНомер текущего этапа: {number_of_stage}\nКоличество выполненных заданий: {quantity_completed_tasks}")
