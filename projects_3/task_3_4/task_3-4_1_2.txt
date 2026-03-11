@@ -1,0 +1,26 @@
+ls -lah /
+
+total 9
+drwxr-xr-x  22 root  wheel   704B 22 ноя 05:45 .
+drwxr-xr-x  22 root  wheel   704B 22 ноя 05:45 ..
+lrwxr-xr-x   1 root  admin    36B 22 ноя 05:45 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+----------   1 root  admin     0B 22 ноя 05:45 .file
+drwxr-xr-x   2 root  wheel    64B 22 ноя 05:45 .nofollow
+drwxr-xr-x   2 root  wheel    64B 22 ноя 05:45 .resolve
+drwxr-xr-x   2 root  wheel    64B 22 ноя 05:45 .vol
+drwxrwxr-x  18 root  admin   576B  3 мар 17:40 Applications
+drwxr-xr-x  68 root  wheel   2,1K  8 мар 12:42 Library
+drwxr-xr-x@ 10 root  wheel   320B 22 ноя 05:45 System
+drwxr-xr-x   5 root  admin   160B  5 янв 14:59 Users
+drwxr-xr-x   3 root  wheel    96B 11 мар 18:00 Volumes
+drwxr-xr-x@ 39 root  wheel   1,2K 22 ноя 05:45 bin
+drwxr-xr-x   2 root  wheel    64B 22 ноя 05:45 cores
+dr-xr-xr-x   3 root  wheel   4,3K 11 мар 18:00 dev
+lrwxr-xr-x@  1 root  wheel    11B 22 ноя 05:45 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25B 11 мар 18:00 home -> /System/Volumes/Data/home
+drwxr-xr-x   3 root  wheel    96B  9 фев 14:07 opt
+drwxr-xr-x   6 root  wheel   192B 11 мар 18:00 private
+drwxr-xr-x@ 64 root  wheel   2,0K 22 ноя 05:45 sbin
+lrwxr-xr-x@  1 root  wheel    11B 22 ноя 05:45 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352B 22 ноя 05:45 usr
+lrwxr-xr-x@  1 root  wheel    11B 22 ноя 05:45 var -> private/var
